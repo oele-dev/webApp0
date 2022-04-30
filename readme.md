@@ -17,7 +17,6 @@ Construye una WebApp desde 0
 
 * Instalación de la DB
 * Introducción a SQL
-* Introducción a HTML y CSS
 
 ---
 # Instalación de la DB
@@ -124,7 +123,109 @@ _color: black
 * Delete
 
 ---
+### **Procedimiento almacenado**
 
+* Que es un procedimiento almacenado ?
+* esta ligado al lenguaje de programación del sistema a desarrollar ?
+
+_store procedure_
+
+---
+### **Primer store procedure**
+Seleccionar la DB
+`use database`;
+
+Crear procedimiento
+`create procedure listusers();`
+
+Definir el contenido
+`select * from users;`
+
+---
+
+# **Utilizar el procedimiento**
+
+`call listusers();`
+
+___
+## **A continuación**
+
+<br>
+<br>
+
+* Introducción a HTML
+* Introducción a CSS
+---
+## **Lenguaje de marca de Hipertexto**
+
+<br>
+
+* Origen
+* La etiqueta
+* Maquetación y semántica
+
+<br>
+
+_HyperText Markup Language_
+
+---
+## **Hoja de estilo en cascada**
+
+<br>
+
+* Selectores
+* Herencia
+---
+## **Recursos**
+
+Introducción al Desarrollo Web - Google
+```
+https://learndigital.withgoogle.com/activate/course/web-development-I
+```
+
+Curso Gratis de Programación Básica
+```
+https://platzi.com/cursos/programacion-basica/
+```
+
+FreeCodeCamp
+```
+https://www.freecodecamp.org/espanol/learn/responsive-web-design/#basic-html-and-html5
+```
+
+Mozilla Developers Network - MDN
+```
+https://developer.mozilla.org/es/docs/Learn
+```
+---
+### Platzi Day
+
+Todos los cursos disponibles del 17 al 20 de Marzo
+`https://platzi.com/day/`
+
+---
+# **JavaScript**
+
+WIP
+
+---
+# **lo que sigue**
+
+* Control de versiones: GIT
+* Commits (confirmaciones)
+* Branchs (ramas)
+* Pull, Push, merge
+* Github
+---
+# **Recursos**
+
+
+https://learngitbranching.js.org/?locale=es_ES
+
+
+https://git-scm.com/book/es/v2
+
+---
 # **Gracias**
 
 twitter.com/@oele_co
