@@ -8,9 +8,11 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 # **Bienvenidos**
 
-Introducción a PHP
+<br /><br />
+Construye una WebApp desde 0
+<br /><br /><br />
 
-[oeleco](http://oeleco.github.io)
+![Image](https://img.icons8.com/color/48/vue-js.png) ![Image](https://img.icons8.com/color/48/tailwind_css.png) ![Image](https://laravel.com/img/logomark.min.svg)
 
 ---
 # **Primeros pasos**
